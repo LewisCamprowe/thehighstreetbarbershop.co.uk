@@ -1,0 +1,2 @@
+a:1:{s:12:"Announcement";a:1:{s:2:"en";s:153:"EASTER WEEKEND! The shop will be CLOSED Good Friday and Saturday 31st March.      OPEN Normal hours from Tuesday 3rd April. Wishing all a Happy Easter!
+";}}
